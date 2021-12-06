@@ -10,8 +10,31 @@ Jasmine is a behavior-driven development framework for testing JavaScript code. 
 
 ![logo](_readme-img/logo.png)
 
+## Unit testing
+
+**What?**
+
+● Testing individual units of code.
+● Unit is the smallest testable part (function).
+
+**Why?**
+
+● Trust changes you make on existing (already tested) code.
+● Code quality
+● Changes occur quickly
+● Documents your own code
+● Automation
+
+**Why jasmine?**
+
+● Everything comes out of the box
+
 ## Concepts covered
 
 ## useful links
 
-- []()
+- [Jasmine](https://jasmine.github.io/)
+- [jasmine/jasmine](https://github.com/jasmine/jasmine)
+- [Getting strated with Jasmine](https://itenium.be/blog/javascript/javascript-testing-jasmine-getting-started/)
+- [juanlizarazo/jasmine-casts](https://github.com/juanlizarazo/jasmine-casts)
+- [ReyPena/jasmine-casts](https://github.com/reypena/jasmine-casts)

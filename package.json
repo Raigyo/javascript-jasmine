@@ -1,0 +1,22 @@
+{
+  "name": "jasmine",
+  "version": "1.0.0",
+  "description": "_ December 2021_",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raigyo/javascript-jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raigyo/javascript-jasmine/issues"
+  },
+  "homepage": "https://github.com/Raigyo/javascript-jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^3.10.0"
+  }
+}

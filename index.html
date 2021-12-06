@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>First spec v3.10.1</title>
+
+  <link rel="shortcut icon" type="image/png" href="lib/jasmine-3.10.1/jasmine_favicon.png">
+  <link rel="stylesheet" href="lib/jasmine-3.10.1/jasmine.css">
+
+  <script src="lib/jasmine-3.10.1/jasmine.js"></script>
+  <script src="lib/jasmine-3.10.1/jasmine-html.js"></script>
+  <script src="lib/jasmine-3.10.1/boot0.js"></script>
+  <!-- optional: include a file here that configures the Jasmine env -->
+  <script src="lib/jasmine-3.10.1/boot1.js"></script>
+
+
+  <script>
+    alert(document.title);
+    describe('Test title', function () {
+      it('should have correct title', function () {
+        expect(document.title).toBe('First spec v3.10.1');
+      });
+    });
+  </script>
+
+</head>
+
+<body>
+</body>
+
+</html>
